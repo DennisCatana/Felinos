@@ -27,4 +27,14 @@ En el menú se va a mostrar los datos de los 6 felinos con la ayuda de un bucle 
 <img width="408" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/35ffbb89-6dae-4790-8b19-b95da3abf1a7"><br>
 <img width="770" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/5e486554-6378-4679-b8f8-b5de1b92f0b2"><br>
 
+## Impresiones
+Se muestra la información de cada felino mediante la consola
+<img width="371" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/eaa14238-7248-4ce6-a779-50bf54d2fc26"><br>
+<img width="280" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/d7d0806a-467d-45ac-bdd1-6017fa7556ec"><br>
+<img width="258" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/357ccbd2-d6fa-46d7-afee-36d2bd4b3496"><br>
+<img width="265" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/e7060628-d17f-4f52-aeb1-1ebba9bea306"><br>
+<img width="265" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/6b7c940c-a3d4-4b7f-b5b8-9f396aea0e2a"><br>
+<img width="270" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/af3c595a-531d-4376-9c73-ef5eaf6177bd"><br>
+<img width="281" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/e3a13098-47a3-4e72-8feb-ffea229a7605"><br>
+<img width="281" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/4f038e67-8385-453d-98b3-7c3fcc69e09c"><br>
 
