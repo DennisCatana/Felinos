@@ -28,7 +28,7 @@ En el menú se va a mostrar los datos de los 6 felinos con la ayuda de un bucle 
 <img width="770" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/5e486554-6378-4679-b8f8-b5de1b92f0b2"><br>
 
 ## Impresiones
-Se muestra la información de cada felino mediante la consola
+Se muestra la información de cada felino mediante la consola<br>
 <img width="371" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/eaa14238-7248-4ce6-a779-50bf54d2fc26"><br>
 <img width="280" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/d7d0806a-467d-45ac-bdd1-6017fa7556ec"><br>
 <img width="258" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/357ccbd2-d6fa-46d7-afee-36d2bd4b3496"><br>
