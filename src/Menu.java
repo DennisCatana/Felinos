@@ -51,8 +51,6 @@ public class Menu {
             System.out.println("\nPor favor vuelva a intentarlo");
             System.out.println("=================================================================================\n");
             opcion = menuPrincipal();
-            System.out.print("\nDígite la opción: ");
-            opcion = scanner.nextInt();
         }
         return opcion;
     }
