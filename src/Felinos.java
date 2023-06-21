@@ -1,22 +1,17 @@
 public class Felinos {
     float tamano;
-    String correr;
-    String ronronear;
+    String color;
+    String velocidad;
 
-
-    //Constructor super
     public Felinos(){
-        super();
     }
-    //Constructor
-    public Felinos(float tamano, String correr, String ronronear) {
+
+    public Felinos(float tamano, String color, String velocidad) {
         this.tamano = tamano;
-        this.correr = correr;
-        this.ronronear = ronronear;
+        this.color = color;
+        this.velocidad = velocidad;
     }
 
-
-    //Setters and getters
     public float getTamano() {
         return tamano;
     }
@@ -25,28 +20,36 @@ public class Felinos {
         this.tamano = tamano;
     }
 
-    public String getCorrer() {
-        return correr;
+    public String getColor() {
+        return color;
     }
 
-    public void setCorrer(String correr) {
-        this.correr = correr;
+    public void setColor(String color) {
+        this.color = color;
     }
 
-    public String getRonronear() {
-        return ronronear;
+    public String getVelocidad() {
+        return velocidad;
     }
 
-    public void setRonronear(String ronronear) {
-        this.ronronear = ronronear;
+    public void setVelocidad(String fuerza) {
+        this.velocidad = fuerza;
     }
+
     public void cazar(){
-        System.out.println("Este es el método cazar");
+        System.out.println("El animal sabe cazar");
     }
+
     public void correr(){
-        System.out.println("Este es el método correr");
+        System.out.println("El animal sabe correr");
     }
+
     public void rugir(){
-        System.out.println("Este es el método rugir");
+        System.out.println("El animal sabe rugir");
+    }
+    public void imprimir(){
+        System.out.println("Tiene un color: "+this.color);
+        System.out.println("Tiene un tamaño de: "+this.tamano+" metros");
+        System.out.println("La velocidad de este animal es: "+this.velocidad);
     }
 }
