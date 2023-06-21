@@ -18,11 +18,11 @@ Se va a crear 6 clases hijas que van a heredar los atributos y métodos de la cl
 <img width="473" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/01e253ce-700c-4dc2-a19a-f652dab6ff09"><br>
 <img width="449" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/7dc1a960-f265-4763-be31-ed0f1d28e3a2"><br>
 
-##Creación de las instancias y el menú
+## Creación de las instancias y el menú
 En el menú se va a mostrar los datos de los 6 felinos con la ayuda de un bucle while. También se van a crear instancias de los mismos.<br>
-###Instancias
+### Instancias
 <img width="563" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/fabd6dea-8f97-411a-bdbe-d627d264413b"><br>
-###Menú
+### Menú
 <img width="441" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/2911cf9d-ab66-45bb-933b-36d3a9e0f049"><br>
 <img width="408" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/35ffbb89-6dae-4790-8b19-b95da3abf1a7"><br>
 <img width="770" alt="image" src="https://github.com/DennisCatana/Felinos/assets/117742977/5e486554-6378-4679-b8f8-b5de1b92f0b2"><br>
